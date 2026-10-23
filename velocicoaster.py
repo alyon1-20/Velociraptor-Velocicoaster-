@@ -40,9 +40,9 @@ def start_ride(self):
         def check_maintenance(self):
         """Determines if maintenance is needed."""
         if self.ride.ride_cycles >= self.maintenance_threshold:
-            print("⚠️ Maintenance Required!")
+            print(" Maintenance Required!")
         else:
-            print("✅ Ride Operating Normally.")
+            print(" Ride Operating Normally.")
 
          def generate_report(self):
         """Prints a summary report."""
