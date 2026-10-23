@@ -1,0 +1,15 @@
+VelociCoaster
+│
+├── Ride Status
+│     ├── Running
+│     └── Stopped
+│
+├── Ride Statistics
+│     ├── Max Speed
+│     ├── Current Speed
+│     └── Ride Cycles
+│
+└── Digital Twin
+      ├── Monitor Ride
+      ├── Check Maintenance
+      └── Generate Report
